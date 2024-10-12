@@ -47,7 +47,7 @@ The model is evaluated using:
 
 ## Results
 
-The notebook provides a detailed walkthrough of model training and includes visualizations of the segmentation results.
+The model successfully segments roads and other key structures with strong performance across evaluation metrics. Below are the key results:
 
 ### IOU and Dice Curves:
 
@@ -57,5 +57,10 @@ The notebook provides a detailed walkthrough of model training and includes visu
 
 ![Results](Images/Results1.png)
 ![Results](Images/Results2.png)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
